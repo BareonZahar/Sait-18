@@ -45,6 +45,9 @@ section h2{
 i{
     color: lightslategrey;
 }
+.p1{
+    float:right;
+}
 .s1 img{
     width: 35%;
     border: 10px solid white;
